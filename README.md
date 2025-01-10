@@ -1,7 +1,4 @@
 # BLE Computer Control
-![WhatsApp Image 2025-01-10 at 15 40 38 (1) (2)](https://github.com/user-attachments/assets/c6996cba-db7b-4a4a-b0fd-339e7dd80499)
-
-
 This project enables interaction with a computer using three main interfaces: 
 
 1. A **Flask web interface**, 
@@ -48,7 +45,8 @@ The system supports the following actions:
 - Download the mobile app APK from the [provided link](https://drive.google.com/file/d/1VfUPdJfNOAdrBGB1T-_16OfgXumDGQcu/view?usp=sharing).
 - Install it on your smartphone.
 - Open the app and navigate to the BLE scanning screen to find and connect to the ESP32 device.  
-![image](https://github.com/user-attachments/assets/f2692351-7b34-40c9-ab77-237aa4e6fccc)
+![WhatsApp Image 2025-01-10 at 15 40 38 (1) (3)](https://github.com/user-attachments/assets/ec65d362-5d7e-4f15-821d-dca5039308ef)
+
 
 
 ### 2. **Configuring the ESP32**
