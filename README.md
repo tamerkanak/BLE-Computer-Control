@@ -46,7 +46,8 @@ The system supports the following actions:
 - Download the mobile app APK from the [provided link](https://drive.google.com/file/d/1VfUPdJfNOAdrBGB1T-_16OfgXumDGQcu/view?usp=sharing).
 - Install it on your smartphone.
 - Open the app and navigate to the BLE scanning screen to find and connect to the ESP32 device.  
-**(Place Screenshot 1: BLE scanning screen here)**
+![image](https://github.com/user-attachments/assets/f2692351-7b34-40c9-ab77-237aa4e6fccc)
+
 
 ### 2. **Configuring the ESP32**
 - Upload the firmware to the ESP32, ensuring BLE and touch pin functionality are enabled.
@@ -70,7 +71,8 @@ The system supports the following actions:
 
 
 - The Flask web interface will display and manage interactions as they occur.  
-**(Place Screenshot 3: Flask web interface here)**
+![flask_ble_arayuz2](https://github.com/user-attachments/assets/39a67ec7-9ce3-4982-bd2e-e6d432f37bd8)
+
 
 ## Screenshots
 
