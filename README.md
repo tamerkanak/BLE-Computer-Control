@@ -67,8 +67,7 @@ The system supports the following actions:
 
 ### 4. **Interfacing**
 - After BLE connection, use the mobile app to send voice commands or interact with the ESP32 touch pins to trigger actions.  
-![image](https://github.com/user-attachments/assets/69a12ac4-4e5f-4199-8aa1-d44a4456d601)
-
+![image](https://github.com/user-attachments/assets/01f0b5db-e4fd-40a4-ba56-f1235ce39b09)
 
 - The Flask web interface will display and manage interactions as they occur.  
 ![flask_ble_arayuz2](https://github.com/user-attachments/assets/39a67ec7-9ce3-4982-bd2e-e6d432f37bd8)
