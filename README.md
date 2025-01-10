@@ -1,4 +1,5 @@
 # BLE Computer Control
+![bcaaa579-60ba-48f9-8b19-b8f9324df7c5](https://github.com/user-attachments/assets/37789d45-668b-467c-a88e-45b2e6faf3a8)
 
 This project enables interaction with a computer using three main interfaces: 
 
