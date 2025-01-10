@@ -47,8 +47,6 @@ The system supports the following actions:
 - Open the app and navigate to the BLE scanning screen to find and connect to the ESP32 device.  
 ![WhatsApp Image 2025-01-10 at 15 40 38 (1) (3)](https://github.com/user-attachments/assets/ec65d362-5d7e-4f15-821d-dca5039308ef)
 
-
-
 ### 2. **Configuring the ESP32**
 - Upload the firmware to the ESP32, ensuring BLE and touch pin functionality are enabled.
 - Set the ESP32 in discoverable mode.
@@ -67,11 +65,10 @@ The system supports the following actions:
 
 ### 4. **Interfacing**
 - After BLE connection, use the mobile app to send voice commands or interact with the ESP32 touch pins to trigger actions.  
-![image](https://github.com/user-attachments/assets/01f0b5db-e4fd-40a4-ba56-f1235ce39b09)
+![WhatsApp Image 2025-01-10 at 15 49 08 (1)](https://github.com/user-attachments/assets/93a8e13f-af97-49d4-9e88-06e271d61612)
 
 - The Flask web interface will display and manage interactions as they occur.  
 ![flask_ble_arayuz2](https://github.com/user-attachments/assets/39a67ec7-9ce3-4982-bd2e-e6d432f37bd8)
-
 
 ## Screenshots
 
