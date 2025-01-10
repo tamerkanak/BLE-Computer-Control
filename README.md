@@ -1,5 +1,6 @@
 # BLE Computer Control
-![WhatsApp Image 2025-01-10 at 15 40 38 (1) (1)](https://github.com/user-attachments/assets/febba3c3-7eb1-4b92-b2ce-145ddc4fe486)
+![WhatsApp Image 2025-01-10 at 15 40 38 (1) (2)](https://github.com/user-attachments/assets/c6996cba-db7b-4a4a-b0fd-339e7dd80499)
+
 
 This project enables interaction with a computer using three main interfaces: 
 
